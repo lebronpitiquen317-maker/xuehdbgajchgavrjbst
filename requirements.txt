@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+tqdm
+streamlit==1.32.2
+altair<6
+protobuf>=4.21.0
