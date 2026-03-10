@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+tqdm
+streamlit==1.32.2
+altair<6
